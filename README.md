@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img alt="Firebase"  src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="Git" 
 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-![titleShadow](https://user-images.githubusercontent.com/90089455/178151423-091f0391-ecfd-451b-a64f-182e0e805c1e.png)
+![titleShadow](https://user-images.githubusercontent.com/90089455/178151423-091f0391-ecfd-451b-a64f-182e0e805c1e.png | width=10)
 
