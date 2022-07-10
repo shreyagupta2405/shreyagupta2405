@@ -43,3 +43,11 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div> 
+</br>
+
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagupta2405&show_icons=true&theme=radical)
+
+</br>
+<div >
+ <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagupta2405&layout=compact">
+</div>
