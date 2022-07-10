@@ -45,9 +45,11 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 </div> 
 </br>
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagupta2405&show_icons=true&theme=radical)
+<div align="center">
+ <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shreyagupta2405&show_icons=true&theme=tokyonight" /> &nbsp; 
+</div>
 
 </br>
-<div >
+<div align="center">
  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagupta2405&layout=compact">
 </div>
