@@ -5,10 +5,10 @@
 -->
 I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women.
 
-- 🔭 I’m focused on mastering Data Structures And Algorithms and solve real world problems
+- 🔭 I’m focused on mastering Data Structures And Algorithms and solve real world problems!
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: https://www.linkedin.com/in/shreya-gupta-86a3a7202a
-- 💬 I’m looking forward to contribute to Open Source Projects.
+- 💬 I’m looking forward to contribute to Open Source Projects
 - ⚡ Fun fact: I swim for fun
 <br/>
 
