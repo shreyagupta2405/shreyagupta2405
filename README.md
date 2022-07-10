@@ -3,7 +3,7 @@
 <!--
 **shreyagupta2405/shreyagupta2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-https://github.com/shreyagupta2405/shreyagupta2405/blob/main/hello-there-private-from-penguins-of-madagascar.gif
+<p><img align="right" src="https://github.com/shreyagupta2405/shreyagupta2405/blob/main/hello-there-private-from-penguins-of-madagascar.gif" width="500" height="320" /></p>
 I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women.
 
 - 🔭 I’m focused on mastering Data Structures And Algorithms and solve real world problems!
