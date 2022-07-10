@@ -31,7 +31,8 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 
 <br/>
 
-## Connect With Me :people_holding_hands:
+## :handshake: Connect With Me:
+
 <div align="center">
 <a href="https://www.linkedin.com/in/shreya-gupta-86a3a7202/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -46,6 +47,7 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 
 </br>
 
+## :chart_with_upwards_trend: Github Stats 
 <div align="center">
  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shreyagupta2405&show_icons=true&theme=tokyonight" /> &nbsp; 
 </div>
@@ -55,3 +57,9 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 <div align="center">
  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagupta2405&layout=compact">
 </div>
+
+</br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shreyagupta2405&&style=flat-square" align="center" />
+</div> 
