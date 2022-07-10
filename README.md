@@ -3,7 +3,7 @@
 <!--
 **shreyagupta2405/shreyagupta2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm **Shreya Gupta**,a tech enthusiast pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women.
+I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women.
 
 - 🔭 I’m currently focused on mastering Data Structures And Algorithms 
 - 🌱 I’m currently learning Web Development
