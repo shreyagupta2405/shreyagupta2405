@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/shreya-gupta-86a3a7202a
 - 💬I’m looking forward to contribute to Open Source Projects.
 - ⚡ Fun fact: I swim for fun
-- <br/>
+<br/>
 
 ## 💻 Tech Stack 
 
