@@ -59,7 +59,8 @@ I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gand
 </div>
 
 </br>
-
+<!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shreyagupta2405&&style=flat-square" align="center" />
 </div> 
+-->
