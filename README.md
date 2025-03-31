@@ -6,13 +6,13 @@
 <p align="center"><img align="center" src="https://github.com/shreyagupta2405/shreyagupta2405/blob/main/new.gif" width="200" height="200" /></p>
 </br>
 
-I'm **Shreya Gupta**, a tech enthusiast pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women.
+I'm **Shreya Gupta**, a tech enthusiast, and I completed my undergrad in 2024 from Indira Gandhi Delhi Technical University for Women.
 
-- 🔭 I’m focused on mastering Data Structures And Algorithms and solve real world problems!
+- 🔭 I’m focused on mastering Data Structures and Algorithms and solve real world problems!
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me : <code><a href="https://www.linkedin.com/in/shreya-gupta-86a3a7202/">LinkedIn</a></code> <code><a href="mailto:shreyagupta240501@gmail.com">Mail</a></code> <code><a href="https://www.instagram.com/shreyaa24_/">Instagram</a></code>
-- 💬 I’m looking forward to contribute to Open Source Projects
-- ⚡ Fun fact: I swim for fun
+- 💬 I’m looking forward to contributing to Open Source Projects
+- ⚡ Fun fact: I swim and dance for fun
 <br/>
 
 ## 💻 Tech Stack 
